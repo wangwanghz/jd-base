@@ -19,7 +19,7 @@ then
   echo "${ScriptsDir} 目录不存在，开始克隆..."
   echo
   cd ${RootDir}
-  git clone https://github.com/wangwanghz/jd_scripts
+  git clone https://github.com/wangwanghz/jd_scripts-2
   echo
 else
   echo "${ScriptsDir} 目录已存在，跳过克隆..."
